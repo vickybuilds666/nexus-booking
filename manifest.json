@@ -1,6 +1,6 @@
 {
-  "name": "Nexus - AI Travel Booking",
-  "short_name": "Nexus",
+"name": "TripSage - AI Travel",
+"short_name": "TripSage",
   "description": "Search flights, hotels and trains with AI",
   "start_url": "/nexus-booking/",
   "display": "standalone",
